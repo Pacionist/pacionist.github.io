@@ -20,10 +20,12 @@ body {
     margin: auto;
     color: transparent;
     font-size: 6vw;
+    align-self: center;
 }
 
 .header__subtitle {
     margin: auto;
     color: purple;
     font-size: 4vw;
+    align-self: center;
 }
