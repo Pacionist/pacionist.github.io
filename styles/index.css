@@ -18,15 +18,13 @@ body {
 .header__title {
     background: linear-gradient(to right, red, blue);
     background-clip: text;
-    margin: auto;
     color: transparent;
-    font-size: 6vw;
+    font-size: 3vw;
 }
 
 .header__subtitle {
-    margin: auto;
     color: purple;
-    font-size: 4vw;
+    font-size: 2vw;
 }
 
 .header img {
