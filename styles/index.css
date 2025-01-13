@@ -29,3 +29,7 @@ body {
     font-size: 4vw;
     align-self: center;
 }
+
+.header img {
+    max-width: 600px;
+}
