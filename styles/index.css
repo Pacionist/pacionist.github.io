@@ -30,3 +30,15 @@ body {
 .header img {
     max-width: 80%;
 }
+
+.projects {
+    font-size: 1vw;
+}
+
+.project__title {
+    font-size: 1.5rem;
+}
+
+.project__status img {
+    color: green;
+}
